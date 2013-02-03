@@ -1,5 +1,7 @@
 # Ruby on Rails Tutorial: first_app
-This is the first application tutorial by Michael Hartl.  -- Lyndon 2013 Feb 1
+== Lyndon's First Rails App
+This is the first_app tutorial - posted by Lyndon 2013 Feb 1
+[*Ruby on Rails Tutorial*](http://railstutorial.org/) by [Michael Hartl](http://michaelhartl.com/).
 
 
 == Welcome to Rails
