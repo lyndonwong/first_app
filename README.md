@@ -1,10 +1,8 @@
 # Ruby on Rails Tutorial: first_app
-== Lyndon's First Rails App
-This is the first_app tutorial - posted by Lyndon 2013 Feb 1
-[*Ruby on Rails Tutorial*](http://railstutorial.org/) by [Michael Hartl](http://michaelhartl.com/).
+This is the first_app example from 
+[*Ruby on Rails Tutorial*](http://railstutorial.org/) by [Michael Hartl](http://michaelhartl.com/) - posted by Lyndon 2013 Feb 1.
 
-
-== Welcome to Rails
+## Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
